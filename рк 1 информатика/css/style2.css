@@ -1,0 +1,12 @@
+table {
+  width: 70%;
+  background-color: aqua;
+  border: solid blue 3px;
+  border-radius: 10px;
+}
+.first__row:hover {
+  background-color: rgb(57, 179, 179);
+}
+.second__row:hover {
+  background-color: rgb(57, 179, 179);
+}

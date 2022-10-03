@@ -1,0 +1,8 @@
+ul:hover {
+  font-size: 25px;
+  color: blueviolet;
+}
+ol:hover {
+  font-size: 25px;
+  color: gray;
+}
